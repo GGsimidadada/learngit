@@ -38,7 +38,9 @@ git commit -m 'message'
 
 `git status`命令可以随时查看工作区当前的状态，可以查看当前所在的分支、文件提交状态等等。
 
-`git diff`命令可以查看指定文件的更改信息。例如：`git diff readme.md`。
+如果`git status`命令表示有文件被修改的话，使用`git diff`命令可以查看指定文件的更改信息。例如：`git diff readme.md`。
+
+
 
 
 
